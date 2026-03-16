@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy - HubSpot Search Remember</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 680px; margin: 40px auto; padding: 0 20px; line-height: 1.6; color: #333; }
+    h1 { font-size: 1.5em; }
+    h2 { font-size: 1.2em; margin-top: 1.5em; }
+    .updated { color: #666; font-size: 0.9em; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p class="updated">Last updated: March 16, 2026</p>
+
+  <h2>Overview</h2>
+  <p><strong>HubSpot Search Remember</strong> is a browser extension that remembers your search and filter inputs on HubSpot so they persist when you navigate back to a page.</p>
+
+  <h2>Data Collection</h2>
+  <p>This extension does <strong>not</strong> collect, transmit, or share any data. Period.</p>
+
+  <h2>Data Storage</h2>
+  <p>Search text you type into HubSpot is saved locally in your browser's <code>sessionStorage</code>. This data:</p>
+  <ul>
+    <li>Never leaves your browser</li>
+    <li>Is automatically cleared when you close the tab or browser</li>
+    <li>Is not accessible to any website, server, or third party</li>
+    <li>Is only used on <code>app.hubspot.com</code></li>
+  </ul>
+
+  <h2>Permissions</h2>
+  <p>This extension requests no special browser permissions. It only runs on <code>app.hubspot.com</code> pages.</p>
+
+  <h2>Third Parties</h2>
+  <p>This extension has no analytics, tracking, advertisements, or third-party integrations of any kind.</p>
+
+  <h2>Contact</h2>
+  <p>If you have questions about this privacy policy, you can open an issue on the extension's support page.</p>
+</body>
+</html>
